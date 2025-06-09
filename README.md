@@ -85,21 +85,6 @@ pip install numpy pandas seaborn matplotlib tensorflow
 - **No missing values:** Data integrity checks included.
 - **Customizable architecture:** Quickly tune layers, activations, and callbacks.
 
----
-
-## 📸 Screenshots & Visuals
-
-You can add screenshots of:
-- Data head and info
-- Model architecture diagram (`model.summary()`)
-- Training history (accuracy/loss curves)
-- Confusion matrix, ROC curve
-
----
-
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
 
 ---
 
